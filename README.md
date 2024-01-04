@@ -2,6 +2,9 @@
 
 # Task - 1 (Voice Assistant)
 
+![image](https://github.com/Rakesh953/-_-_1_Voice_assistant-/assets/114344426/54c61982-3d01-41b0-b30f-1884a64c786c)
+
+
 Create a basic voice assistant that can perform simple tasks based on voice commands. Implement features like responding to "Hello" and providing predefined responses, telling the time or date, and searching the web or information based on user queries.
 
 # Key Concepts and Challenges:
